@@ -1,0 +1,11 @@
+The systems have inbuilt recursion limits which can be increased using the sys library in python (This is generally not recommended )
+
+The code is as below;
+        ```
+
+
+        import sys
+        sys.setrecursionlimit(3000)
+
+
+        ```
