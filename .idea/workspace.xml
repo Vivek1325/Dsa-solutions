@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b786eaf0-9ae5-44cb-a382-8a7220ca73b8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Dsa solutions.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Dsa solutions.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion/factorial.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Recursion/factorial.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion/fibonacci_series.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Recursion/fibonacci_series.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion/print1-n_and n-1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Recursion/print1-n_and n-1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion/recrusion limit.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Recursion/recrusion limit.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2JBVoBJ7vsmXg8IXCjw3b4RJkwe" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "E:/Dsa solutions",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.notebooks.jupyter.connections.configuration.JupyterServerConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b786eaf0-9ae5-44cb-a382-8a7220ca73b8" name="Changes" comment="" />
+      <created>1671551636401</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1671551636401</updated>
+      <workItem from="1671551638634" duration="583000" />
+      <workItem from="1671552237257" duration="2000" />
+      <workItem from="1671564999879" duration="1428000" />
+      <workItem from="1671627245806" duration="5817000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
